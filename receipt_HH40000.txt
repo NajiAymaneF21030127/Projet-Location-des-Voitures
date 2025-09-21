@@ -1,0 +1,6 @@
+R�servation pour le client avec CIN: HH40000
+Nom du conducteur 1: NOUHAILA
+Nom du conducteur 2: SAID
+Dur�e: 7 jours
+Co�t de la voiture par jour: 500.0 dirhams
+Total: 3500.0 dirhams

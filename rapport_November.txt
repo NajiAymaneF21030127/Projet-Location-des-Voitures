@@ -1,0 +1,5 @@
+Mois: November
+Total vente: 1850.0
+Total salaire: 400.0
+Total tax: 170.0
+Total profits: 1280.0

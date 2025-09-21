@@ -1,0 +1,6 @@
+Réservation pour le client avec CIN: HH34361
+Nom du conducteur 1: AYMANE
+Nom du conducteur 2: fati
+Durée: 6 jours
+Coût de la voiture par jour: 400.0 dirhams
+Total: 2400.0 dirhams

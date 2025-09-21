@@ -1,0 +1,5 @@
+Mois: June
+Total vente: 650.0
+Total salaire: 400.0
+Total tax: 120.0
+Total profits: 130.0

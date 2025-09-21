@@ -1,0 +1,5 @@
+Mois: March
+Total vente: 2350.0
+Total salaire: 400.0
+Total tax: 220.0
+Total profits: 1730.0
